@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Portable SSD">
-<rect width="500" height="500" rx="32" fill="#05080d"/>
-<circle cx="250" cy="235" r="175" fill="#071525"/>
-<circle cx="250" cy="235" r="175" fill="none" stroke="#123e62" stroke-width="2"/>
-<rect fill="#0b1220" stroke="#20a8ff" stroke-width="6" stroke-linejoin="round" x="145" y="95" width="210" height="290" rx="25"/><circle fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" cx="250" cy="150" r="14"/><path fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M190 225h120M190 255h120M190 285h80"/>
-<text x="250" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf7ff">e-electronics</text>
-<text x="250" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#20a8ff">PRODUCT 13</text>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Gaming Controller">
-<rect width="500" height="500" rx="32" fill="#05080d"/>
-<circle cx="250" cy="235" r="175" fill="#071525"/>
-<circle cx="250" cy="235" r="175" fill="none" stroke="#123e62" stroke-width="2"/>
-<path fill="#0b1220" stroke="#20a8ff" stroke-width="6" stroke-linejoin="round" d="M145 170c-55 35-70 125-25 155 25 15 50-15 70-55h120c20 40 45 70 70 55 45-30 30-120-25-155-35-23-65 5-90 5s-55-28-90-5z"/><path fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M175 225v55M147 252h56M315 235h2M350 260h2"/>
-<text x="250" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf7ff">e-electronics</text>
-<text x="250" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#20a8ff">PRODUCT 20</text>
-</svg>

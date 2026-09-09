@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Wireless Mouse">
-<rect width="500" height="500" rx="32" fill="#05080d"/>
-<circle cx="250" cy="235" r="175" fill="#071525"/>
-<circle cx="250" cy="235" r="175" fill="none" stroke="#123e62" stroke-width="2"/>
-<path fill="#0b1220" stroke="#20a8ff" stroke-width="6" stroke-linejoin="round" d="M250 90c-65 0-100 55-100 125v70c0 65 45 105 100 105s100-40 100-105v-70c0-70-35-125-100-125z"/><path fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M250 100v110M230 155h40"/>
-<text x="250" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf7ff">e-electronics</text>
-<text x="250" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#20a8ff">PRODUCT 10</text>
-</svg>

@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Power Bank">
-<rect width="500" height="500" rx="32" fill="#05080d"/>
-<circle cx="250" cy="235" r="175" fill="#071525"/>
-<circle cx="250" cy="235" r="175" fill="none" stroke="#123e62" stroke-width="2"/>
-<rect fill="#0b1220" stroke="#20a8ff" stroke-width="6" stroke-linejoin="round" x="130" y="105" width="240" height="260" rx="28"/><rect fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" x="205" y="155" width="90" height="12" rx="6"/><path fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M235 215h30v45h35l-55 75v-45h-35z"/>
-<text x="250" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf7ff">e-electronics</text>
-<text x="250" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#20a8ff">PRODUCT 03</text>
-</svg>

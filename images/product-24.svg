@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-label="Ring Light">
-<rect width="500" height="500" rx="32" fill="#05080d"/>
-<circle cx="250" cy="235" r="175" fill="#071525"/>
-<circle cx="250" cy="235" r="175" fill="none" stroke="#123e62" stroke-width="2"/>
-<circle fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" cx="250" cy="175" r="100"/><circle fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" cx="250" cy="175" r="45"/><path fill="none" stroke="#20a8ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M250 275v70M190 375h120M205 345l-35 30M295 345l35 30"/>
-<text x="250" y="435" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#eaf7ff">e-electronics</text>
-<text x="250" y="463" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#20a8ff">PRODUCT 24</text>
-</svg>
